@@ -13,7 +13,7 @@ dependencies.
   * Create and manage objects (Inversion of Control)
   * Inject object’s dependencies (Dependency Injection)
 
-# Demo Example (Imlementation Overview)
+# Demo Example (Implementation Overview)
 * Coach will provide daily workouts
 * The DemoController wants to use a Coach
   * New helper: Coach
